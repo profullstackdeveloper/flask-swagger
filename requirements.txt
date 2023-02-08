@@ -1,0 +1,2 @@
+connexion[swagger-ui] == 2.14.1
+setuptools >= 21.0.0
